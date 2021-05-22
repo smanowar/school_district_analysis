@@ -21,6 +21,13 @@ Rerunning the analysis we will see how the omission of the ninth-grade scores fr
 #### District Summary
 As seen in the figures below (old results on top, results omitting the ninth grade scores below):
 
+<p align="center">
+<img src=https://github.com/smanowar/school_district_analysis/blob/main/visuals/district_summary_old.PNG> 
+</p>
+<p align="center">
+<img src=https://github.com/smanowar/school_district_analysis/blob/main/visuals/district_summary_new.PNG> 
+</p>
+
 There are no drastic change in the results, differences are as follows: 
 
 - Average Math Score dropped 0.1% to 78.9%
@@ -30,6 +37,13 @@ There are no drastic change in the results, differences are as follows:
 
 #### School Summary 
 As seen in the figures below (old results on top, results omitting the ninth grade scores below):
+
+<p align="center">
+<img src=https://github.com/smanowar/school_district_analysis/blob/main/visuals/thomas_high_school_old.PNG> 
+</p>
+<p align="center">
+<img src=https://github.com/smanowar/school_district_analysis/blob/main/visuals/thomas_high_school_new.PNG> 
+</p>
 
 There are no drastic change in the results, noteable differences are as follows:
 
@@ -41,6 +55,9 @@ There are no drastic change in the results, noteable differences are as follows:
 
 Omitting the ninth-grade data from Thomas High School has no effect on the top 5 schools:
 
+<p align="center">
+<img src=https://github.com/smanowar/school_district_analysis/blob/main/visuals/top_schools_new.PNG> 
+</p>
 
 Thomas High School still remains the 2nd highest performing school in the district.
 
