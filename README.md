@@ -81,8 +81,10 @@ Thomas High School is a Charter School. However, as stated previously the effect
 
 ## Summary
 
-After omitting the grade nine data for Thomas High School, we see a slight drop in the overall performance of the school. 
+After omitting the grade nine data for Thomas High School, we see a slight drop in the overall performance of the school. After omitting the grade nine score data and adjusting our student count to reflect that we find that the overall reading score increased, however we saw a drop in: 
 
-The overall reading score increased, however we saw a drop in Percentage Passing Math, Percentage Passing Reading, and Percentage Overall Passing.
+- Percentage Passing Math 
+- Percentage Passing Reading 
+- Percentage Overall Passing
 
 However, because this change is relativley minimal it has no effect on the other metrics and Thomas High School still stands as the 2nd top performing school in the district.
